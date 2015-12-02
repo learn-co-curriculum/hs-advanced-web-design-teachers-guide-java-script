@@ -123,3 +123,5 @@ BUT it’s not really that helpful because JS will only know that the variable e
 	+ What will the total equal (what value will be returned when I run countAnimals(3);
 + Variable scope - and not being able to access variables outside of a function - seems annoying but it’s really important and helpful because you will know exactly what your variable is equal to - it can only be set from within your function so it can only be equal to the value that you set within your function.
 Every head to Learn.co and fork and clone LAB I NEED TO CREATE for more practice. 
+
+<a href='https://learn.co/lessons/hs-advanced-web-design-teachers-guide-java-script' data-visibility='hidden'>View this lesson on Learn.co</a>
